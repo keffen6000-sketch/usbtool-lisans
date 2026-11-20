@@ -1,8 +1,9 @@
 {
     "ids": [
-        "APKI-I223-7WH5-XQ4X"
+        "APKI-I223-7WH5-XQ4X",
+        "T3EF-YYE2-GPUZ-U77P"
     ],
     "note": "USB Tool iptal listesi - elle degistirmeyin",
-    "sig": "AG/NmZb4ZVuZ4Ym/St0uWfSL8eL+/MtQaI7zkFUw3lS9P51pJ1T2I2rJFZGnoYsj0Tp66N1kfRXeBxuOoq2bug==",
-    "time": 1795177394
+    "sig": "e9jM6KkCD/PvSlm3jgtdZ4tMz77XmXbi9sEcw6YPhUgDYGdBAQHxLDKS86tdBtM/Fppk9dyRl/z+kUBSOORTpg==",
+    "time": 1795177644
 }
